@@ -1,0 +1,2 @@
+Arquivo criado depois do repositorio do `fork` de um segunda conta
+pra verificar se está atualizando no repo forkado
